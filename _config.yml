@@ -1,6 +1,6 @@
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Julong Wei"
+description              : "The information is fake. Maybe I will update it tomorrow."
+repository               : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -19,7 +19,7 @@ author:
   location         : "Shanghai,China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "jlwei23@m.fudan.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
