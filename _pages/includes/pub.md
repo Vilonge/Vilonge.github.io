@@ -1,5 +1,5 @@
 # 📝 Publications
-
+<!-- 
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div class="badge">NeurIPS 2019</div>
@@ -36,4 +36,4 @@
             </li>
         </ul>
     </div>
-</div>
+</div> -->
