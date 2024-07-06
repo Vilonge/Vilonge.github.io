@@ -1,2 +1,2 @@
 # 🔥 **News**
-- *2023.11*: 🎉🎉 No News.
+- *2024.07*: 🎉🎉 Our paper O2V-Mapping has been accepted by ECCV 2024.
