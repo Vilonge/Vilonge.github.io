@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /    # 这是主页
 title: ""
 excerpt: ""
 author_profile: true
