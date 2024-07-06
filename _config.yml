@@ -1,6 +1,6 @@
 title                    : Julong Wei
 description              : The information is fake. Maybe I will update it tomorrow.
-repository               : "repository"
+repository               : https://github.com/Vilonge/Vilonge.github.io
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -17,7 +17,7 @@ author:
   avatar           : images/candid.JPG
   bio              : Fudan University
   location         : Shanghai,China
-  employer         : 
+  employer         : Fudan University
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : jlwei23@m.fudan.edu.cn
