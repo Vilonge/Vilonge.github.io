@@ -16,6 +16,8 @@ redirect_from:
 <br>
 {% include_relative includes/pub.md %}
 <br>
-{% include_relative includes/honers.md %}
+{% include_relative includes/awards.md %}
 <br>
-{% include_relative includes/others.md %}
+{% include_relative includes/education.md %}
+<!-- <br>
+{% include_relative includes/intership.md %} -->
