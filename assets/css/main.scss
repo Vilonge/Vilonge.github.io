@@ -46,9 +46,9 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    // border-bottom: 1px #efefef solid;
+    border-bottom: 1px #0f0606 solid;
+    padding: 1em 0 1em 0;
 
     .paper-box-image{
         justify-content: center;
@@ -84,7 +84,6 @@
 
     }
 
-
 }
 
 $scroll_offset : 2em;
@@ -104,6 +103,6 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
-    font-size: .8em;
+    background-color: #002d9f;
+    font-size: 1em;
 }

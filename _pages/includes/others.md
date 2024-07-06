@@ -3,8 +3,5 @@
 - *2018.09 - 2023.06*, **Shandong University**, School of Mechanical, Electrical and Information Engineering, Major in Mechanical Design, Manufacturing and Automation, Bachelor of Engineering.
 - *2018.09 - 2019.06*, **Shandong University**, Northeast Asian Studies College, Major in Korean Language.
 
-# 💬 Invited Talks
-- *2023.11*, No Talk.
-
 # 💻 Internships
 - *2023.11*, No Internship.
