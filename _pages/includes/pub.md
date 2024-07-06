@@ -6,7 +6,7 @@
 
 ### **[O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation](https://arxiv.org/abs/2404.06836)**
 
-*Muer Tie, <font color=Red>**Julong Wei**</font>, Zhengjun Wang, Ke Wu, Shansuai Yuan, Kaizhao Zhang, Jie Jia, Jieru Zhao, Zhongxue Gan, Wenchao Ding*
+*Muer Tie, <strong><font color=Red>Julong Wei</font></strong>, Zhengjun Wang, Ke Wu, Shansuai Yuan, Kaizhao Zhang, Jie Jia, Jieru Zhao, Zhongxue Gan, Wenchao Ding*
 
 Project/[Paper](https://arxiv.org/abs/2404.06836)/Code
 
