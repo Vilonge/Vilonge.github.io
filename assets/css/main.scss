@@ -46,13 +46,13 @@
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
+    border-bottom: 1px #ffffff solid;
     padding: 0 0 0 0;
 
     .paper-box-image{
         justify-content: center;
         display: flex;
-        width: 100%;
+        width: 50%;
         order: 2;
         img {
             max-width: 400px;
