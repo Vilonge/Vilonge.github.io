@@ -94,10 +94,10 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 95%;   // 照片倒角
+    border-radius: 5%;   // 照片倒角
 
     @include breakpoint($large) {
-      padding: 5px;
+      // padding: 5px;
       border: 1px solid $border-color;
     }
   }
