@@ -19,5 +19,3 @@ redirect_from:
 {% include_relative includes/awards.md %}
 <br>
 {% include_relative includes/education.md %}
-<!-- <br>
-{% include_relative includes/intership.md %} -->
