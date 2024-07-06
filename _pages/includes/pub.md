@@ -4,9 +4,9 @@
 <div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/pub/O2V-Mapping.png' alt="O2V-Mapping" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-### [O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation](https://arxiv.org/abs/2404.06836)
+### **[O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation](https://arxiv.org/abs/2404.06836)**
 
-*Muer Tie, **Julong Wei**, Zhengjun Wang, Ke Wu, Shansuai Yuan, Kaizhao Zhang, Jie Jia, Jieru Zhao, Zhongxue Gan, Wenchao Ding*
+*Muer Tie, <font color=Red>**Julong Wei**</font>, Zhengjun Wang, Ke Wu, Shansuai Yuan, Kaizhao Zhang, Jie Jia, Jieru Zhao, Zhongxue Gan, Wenchao Ding*
 
 Project/[Paper](https://arxiv.org/abs/2404.06836)/Code
 
