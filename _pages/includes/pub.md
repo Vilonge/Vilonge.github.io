@@ -1,39 +1,31 @@
 # 📝 Publications
-<!-- 
+
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <div class="badge">NeurIPS 2019</div>
-        <img src='images/fs.png' alt="FastSpeech Paper Image" width="100%">
+        <div class="badge">ECCV 2024</div>
+        <img src='images/pub/O2V-Mapping.png' alt="O2V-Mapping" width="100%">
     </div>
     <div class='paper-box-text' markdown="1">
-        <a href="https://papers.nips.cc/paper/580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf">
-            FastSpeech: Fast, Robust and Controllable Text to Speech
+        <a href="https://arxiv.org/abs/2404.06836">
+            O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation
         </a>
         <br>
-        <strong>Yi Ren, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu</strong>
+        Muer Tie, <strong>Julong Wei</strong>, Zhengjun Wang, Ke Wu, Shansuai Yuan, Kaizhao Zhang, Jie Jia, Jieru Zhao, Zhongxue Gan, Wenchao Ding
         <br>
-        <a href="https://speechresearch.github.io/fastspeech/"><strong>Project</strong></a> 
-        <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+        <a href="https://arxiv.org/abs/2404.06836"><strong>Project</strong>
+        </a>
+        /
+        <a href="https://arxiv.org/abs/2404.06836"><strong>Paper</strong>
+        </a>
+        /
+        <a href="https://arxiv.org/abs/2404.06836"><strong>Code</strong>
+        </a>
         <ul>
-            <li>FastSpeech is the first fully parallel end-to-end speech synthesis model.</li>
-            <li>
-                <strong>Academic Impact</strong>: This work is included by many famous speech synthesis open-source projects, such as 
-                <a href="https://github.com/espnet/espnet">
-                    ESPNet 
-                    <img src="https://img.shields.io/github/stars/espnet/espnet?style=social" alt="ESPNet GitHub Stars">
-                </a>. 
-                Our work is promoted by more than 20 media and forums, such as 
-                <a href="https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ">机器之心</a> and 
-                <a href="https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu">InfoQ</a>.
+            <li>We propose an <strong>O</strong>nline <strong>O</strong>pen <strong>V</strong>ocabulary mapping framework for online reconstruction and novel view rendering.</li>
+            <li>We propose a feature fusion mechanism to address the issue of semantic spatiotemporal ambiguity in 3D scene understanding.
             </li>
-            <li>
-                <strong>Industry Impact</strong>: FastSpeech has been deployed in 
-                <a href="https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911">
-                    Microsoft Azure TTS service
-                </a> 
-                and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in 
-                <a href="https://resources.nvidia.com/events/GTC2020s21420">NVIDIA GTC2020</a>.
+            <li>We propose an LLM-centric agent utilizing O2V Field as interactive memory for embodied planning within global scene.
             </li>
         </ul>
     </div>
-</div> -->
+</div>
