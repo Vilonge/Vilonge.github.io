@@ -10,7 +10,7 @@
 
 Project/[Paper](https://arxiv.org/abs/2404.06836)/Code
 
-- We propose an **O**nline **O**pen **V**ocabulary mapping framework for online reconstruction and novel view rendering.
+- We propose an <strong><font color=Red>O</font></strong>nline <strong><font color=Red>O</font></strong>pen <strong><font color=Red>V</font></strong>ocabulary mapping framework for online reconstruction and novel view rendering.
 - We propose a feature fusion mechanism to address the issue of semantic spatiotemporal ambiguity in 3D scene understanding.
 - We propose an LLM-centric agent utilizing O2V Field as interactive memory for embodied planning within global scene.
 </div>
