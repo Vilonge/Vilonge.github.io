@@ -1,2 +1,2 @@
 # 🔥 **News**
-- *2024.07*: 🎉🎉 Our paper O2V-Mapping has been accepted by ECCV 2024.
+- *2024.08*: 🎉🎉 Our paper OccLLaMA is under review by AAAI2025.
