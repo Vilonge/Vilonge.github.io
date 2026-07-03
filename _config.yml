@@ -1,6 +1,6 @@
-title                    : Julong Wei
+title                    : Jax(Julong Wei)
 description              : Stay hungry, Stay foolish.
-repository               : https://github.com/Vilonge/Vilonge.github.io
+repository               : Vilonge/Vilonge.github.io
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -13,12 +13,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : Julong Wei
+  name             : Jax(Julong Wei)
   avatar           : images/candid.JPG
   bio              : 
-  location         : Shanghai, China
-  employer         : Fudan MagicLab
-  employer_url     : http://121.40.70.52/ 
+  location         : Beijing, China
+  employer         : SpiritAI
+  employer_url     : https://www.spirit-ai.com/
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : jlwei23@m.fudan.edu.cn
